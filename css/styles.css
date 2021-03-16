@@ -27,7 +27,6 @@ h3 {
 p {
   color: #40514E;
   line-height: 2;
-  font-size: 16px
 }
 .git {
   width: 30%;
@@ -117,7 +116,7 @@ a:hover {
   border-radius: 10px;
   color: #ffffff;
   font-size: 5px;
-  padding: 0.4em 0.1em;
+  padding: 0.8em 0.3em;
   text-decoration: none;
   font-family: 'Montserrat', sans-serif;
   display: inline-block;
