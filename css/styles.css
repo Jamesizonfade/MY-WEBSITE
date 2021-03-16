@@ -21,6 +21,8 @@ h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999e;
   fon-size: 0.75rem;
+  width: 30%;
+  margin: auto;
 }
 p {
   color: #40514E;
@@ -113,7 +115,7 @@ a:hover {
   -moz-border-radius: 10;
   border-radius: 10px;
   color: #ffffff;
-  font-size: 12px;
+  font-size: 5px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
   font-family: 'Montserrat', sans-serif;
