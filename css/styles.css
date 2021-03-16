@@ -14,13 +14,13 @@ h1{
 }
 h2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   color: #66BFBF;
 }
 h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999e;
-  fon-size: 0.75rem;
+  fon-size: 1.25rem;
   width: 30%;
   margin: auto;
 }
@@ -115,7 +115,7 @@ a:hover {
   -moz-border-radius: 10;
   border-radius: 10px;
   color: #ffffff;
-  font-size: 1.75rem;
+  font-size: 3px;
   padding: 0.8em 0.3em;
   text-decoration: none;
   font-family: 'Montserrat', sans-serif;
