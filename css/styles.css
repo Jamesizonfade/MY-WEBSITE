@@ -31,7 +31,7 @@ p {
   width: 30%;
   margin: 40px auto 60px;
 }
-.into {
+.intro {
   width: 30%;
   margin: auto;
 }
@@ -50,8 +50,7 @@ hr {
   position: relative;
 }
 .middle-container {
-  margin: 100px auto;
-  width: 50%;
+  margin: 100px 0;
 }
 .bottom-container {
   background-color: #66BFBF;
@@ -100,7 +99,7 @@ a:hover {
 .footer {
   color: #EAF6F6;
   padding: 20px 0;
-  font-size: 0.5rem;
+  font-size: 0.75rem;
 
 }
 
